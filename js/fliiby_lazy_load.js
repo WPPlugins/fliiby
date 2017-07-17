@@ -1,0 +1,1 @@
+jQuery('.fliiby_lazy_embed').lazyload();
